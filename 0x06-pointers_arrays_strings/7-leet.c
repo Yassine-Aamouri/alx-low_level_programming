@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * leet - Encode to 1337
@@ -23,4 +23,4 @@ char *leet(char *n)
 		}
 	}
 	return (n);
-}
+
